@@ -1,6 +1,6 @@
 <h3 align="center">Mobile App developer</h3>
 
-- 🔭 I’m currently working on **Something interesting)**
+- 🔭 I’m currently working on **Remote Working Store Android App/Flutter/Bloc**
 
 - 📫 How to reach me **erumor24@gmail.com @ERumor**
 
@@ -12,6 +12,7 @@
 **Flutter Tool Belt:** 
 
 **Databases:** SQLite, Hive, Floor, Firebase.
+
 **State Management approaches:** Provider, Riverpod, BLoC / Rx.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
