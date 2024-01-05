@@ -1,3 +1,5 @@
+https://github.com/ERumor/ERumor/assets/57027295/050bff4f-b4f1-447f-8f9e-fb875ac29a7a
+
 <h3 align="center">Mobile App developer</h3>
 
 - 🔭 I’m currently working on **Remote Working Store Android App/Flutter/Bloc**
@@ -16,3 +18,8 @@
 **State Management approaches:** Provider, Riverpod, BLoC / Rx.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+
+
